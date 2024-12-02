@@ -8,16 +8,15 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 2. Co to jest deindustralizacja i jakie może mieć ona skutki? Przedstaw na wykresie/wykresach dane produkcji wybranych krajów europy na przestrzeni ostatnich 20 lat.
 <!-- https://kig.pl/aktualnosc-ekonomicz/wyniki-przemyslu-w-sierpniu-2024/ -->
+winna-zmienna-aktywnosc-slonca.html -->[amelia zab,  maks czerniak]
 
-3. Jakie są przyczyny zmian klimatu? Przestaw na wykresie/wykresach zmiany temparatury na ziemi w możliwie długim okresie czasu oraz skoreluj wyniki z mierzalnymi czynnikami (np działalności człowieka i/lub aktywności słonecznej).
-<!-- https://eko.wprost.pl/10429366/prof-piotr-wolanski-o-zmianach-klimatu-winna-zmienna-aktywnosc-slonca.html -->
 
 4. Przeanalizuj wyniki głosowania Polaków w wyborach w ostatnich kilkunastu latach. Przestaw wyniki głosowań na wykresie/wykresach. Czy znajdziesz korelację wyników wyborów z wydarzeniami historycznymi/społecznymi/medialnymi?
 <!-- https://wybory.gov.pl/index/index.html -->
 
 5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii obecnie w zestawieniu dziennym i rocznym.
 <!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
-[Oskar Gondzik]
+[Oskar Gondzik] [lena kiszewska]
 
 6. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
